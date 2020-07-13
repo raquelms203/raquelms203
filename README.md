@@ -1,4 +1,4 @@
-### Olá :smile 
+### Olá :smile:
 
 - Tenho projetos de Apps em Flutter, Web em React e Desktop em Java
 - Todos os meus projetos têm um vídeo de demonstração no YouTube (incluindo um tutorial de Flutter)
