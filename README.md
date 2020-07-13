@@ -5,5 +5,5 @@
 
  - YouTube: https://www.youtube.com/user/raquel4104/playlists 
  - E-mail: raquelmartins203@yahoo.com.br
- - Linkedin: https://linkedin.com/in/raquel-martins-dos-santos-8b5593148/
+ - LinkedIn: https://linkedin.com/in/raquel-martins-dos-santos-8b5593148/
 
