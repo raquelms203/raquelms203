@@ -1,7 +1,7 @@
 ### Olá :woman_technologist:
 
  - Tenho projetos de Apps em Flutter, Web em React, Back-end em Node e Desktop em Java.
- - Todos os meus projetos têm um vídeo de demonstração no YouTube, incluindo um tutorial de Flutter
+ - Todos os meus projetos têm um vídeo de demonstração no YouTube, incluindo um tutorial de Flutter.
 
  - YouTube: https://www.youtube.com/user/raquel4104/playlists 
  - E-mail: raquelmartins203@yahoo.com.br
