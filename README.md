@@ -1,6 +1,8 @@
 ### Hi :woman_technologist:
 
- - I have Apps in Flutter, Web in React, Back-end in Node and Desktop in Java.
+ - Apps and sites: Flutter, React and Angular.
+ - Back-end in Node and Java Spring Boot.
+ - Desktop in Java.
  - All of my projects has a demo video in YouTube, including a tutorial about Flutter.
 
  - E-mail: raquelmartins203@yahoo.com.br
@@ -10,7 +12,9 @@
 
 ### Olá :woman_technologist:
 
- - Tenho projetos de Apps em Flutter, Web em React, Back-end em Node e Desktop em Java.
+ - Apps e sites: Flutter, React e Angular.
+ - Back-end em Node e em Java Spring Boot.
+ - Desktop em Java.
  - Todos os meus projetos têm um vídeo de demonstração no YouTube, incluindo um tutorial de Flutter.
 
  - E-mail: raquelmartins203@yahoo.com.br
